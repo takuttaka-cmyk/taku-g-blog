@@ -14,6 +14,10 @@ dist/
 # OS files
 .DS_Store
 
-# All images in public/images except hero.png
+# All images in public/images except hero.png and article images
 public/images/**
 !public/images/hero.png
+!public/images/nyuin-02-img1.png
+!public/images/nyuin-02-img2.png
+!public/images/nyuin-02-img3.png
+!public/images/nyuin-02-img4.png

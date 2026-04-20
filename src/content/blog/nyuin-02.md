@@ -33,7 +33,7 @@ heroImage: '../../assets/taku-g-hero.png'
 入院中、思うように動けなかった怖さを知ったからこそ、歩ける今がありがたいじゃな。
 最初のうちは、痛む腹を押さえながら時間がかかったじゃがな！
 
-![](/images/ChatGPT%20Image%202026年2月21日%2016_46_23.png)
+![](/images/nyuin-02-img1.png)
 
 ---
 
@@ -66,7 +66,7 @@ heroImage: '../../assets/taku-g-hero.png'
 なる前に読んでおきたかったじゃが、退院後の食やサプリに役立てておるじゃよ。
 発生原因・治療の良し悪しも書かれていたじゃが、**"未然に防ぐ考えを改める"**本じゃったな。
 
-![](/images/ChatGPT%20Image%202026年2月21日%2017_06_03.png)
+![](/images/nyuin-02-img2.png)
 
 <table border="0" cellpadding="0" cellspacing="0"><tr><td><div style="border:1px solid #95a5a6;border-radius:.75rem;background-color:#FFFFFF;width:184px;margin:0px;padding:5px;text-align:center;overflow:hidden;"><table><tr><td style="width:80px"><a href="https://hb.afl.rakuten.co.jp/ichiba/3bae4eaf.fc085472.3bae4eb0.528ba0a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16262919%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI4MHg4MCIsIm5hbSI6MSwibmFtcCI6InJpZ2h0IiwiY29tIjoxLCJjb21wIjoiZG93biIsInByaWNlIjoxLCJib3IiOjEsImNvbCI6MSwiYmJ0biI6MSwicHJvZCI6MCwiYW1wIjpmYWxzZX0%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hgb/3bae4eaf.fc085472.3bae4eb0.528ba0a7/?me_id=1213310&item_id=19963889&pc=https%3A%2F%2Fthumbnail.image.rakuten.co.jp%2F%400_mall%2Fbook%2Fcabinet%2F6891%2F9784478106891.jpg%3F_ex%3D80x80&s=80x80&t=picttext" border="0" style="margin:2px" alt="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]" title="[商品価格に関しましては、リンクが作成された時点と現時点で情報が変更されている場合がございます。]"></a></td><td style="vertical-align:top;width:88px;display: block;"><p style="font-size:12px;line-height:1.4em;text-align:left;margin:0px;padding:2px 6px;word-wrap:break-word"><a href="https://hb.afl.rakuten.co.jp/ichiba/3bae4eaf.fc085472.3bae4eb0.528ba0a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbook%2F16262919%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI4MHg4MCIsIm5hbSI6MSwibmFtcCI6InJpZ2h0IiwiY29tIjoxLCJjb21wIjoiZG93biIsInByaWNlIjoxLCJib3IiOjEsImNvbCI6MSwiYmJ0biI6MSwicHJvZCI6MCwiYW1wIjpmYWxzZX0%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;">世界中の医学研究を徹底的に比較してわかった最高のがん治療 [ 津川　友介 ]</a><br><span >価格：1,870円（税込、送料無料)</span> <span style="color:#BBB">(2026/4/20時点)</span></p></td></tr></table></div><br><p style="color:#000000;font-size:12px;line-height:1.4em;margin:5px;word-wrap:break-word"></p></td></tr></table>
 
@@ -113,7 +113,7 @@ heroImage: '../../assets/taku-g-hero.png'
 今こうして話せるのも、あの時間があったからじゃな。
 心から感謝しておる。また入院したくはないじゃがね。
 
-![](/images/ChatGPT%20Image%202026年2月24日%2014_23_28.png)
+![](/images/nyuin-02-img3.png)
 
 ---
 
@@ -154,4 +154,4 @@ heroImage: '../../assets/taku-g-hero.png'
 
 ではまたお目にかかれる日を！**バイナラじゃ。**
 
-![](/images/ChatGPT%20Image%202026年2月5日%2021_21_08.png)
+![](/images/nyuin-02-img4.png)

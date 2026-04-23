@@ -66,6 +66,10 @@ heroImage: '../../assets/taku-g-hero.png'
 
 その夜は時間がとても長く感じた。
 
+![](/images/nyuin-03-img1.png)
+
+![](/images/nyuin-03-img2.png)
+
 ---
 
 ## 4．手術当日
@@ -108,6 +112,10 @@ heroImage: '../../assets/taku-g-hero.png'
 
 そこから毎日、朝・昼・晩、病棟を歩くようになった。
 
+![](/images/nyuin-03-img3.png)
+
+![](/images/nyuin-03-img4.png)
+
 ---
 
 ## 7．空腹との戦い
@@ -143,6 +151,10 @@ heroImage: '../../assets/taku-g-hero.png'
 **「そろそろ退院できますね」**
 
 突然すぎて驚いた。でも嬉しかった。
+
+![](/images/nyuin-03-img5.png)
+
+![](/images/nyuin-03-img6.png)
 
 ---
 

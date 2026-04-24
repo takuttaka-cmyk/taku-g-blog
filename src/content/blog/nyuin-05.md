@@ -2,7 +2,7 @@
 title: '入院前の過ごし方｜結果を聞いて決めたこと（手術までの2ヶ月）'
 description: 'ガンと告げられてから手術まで2ヶ月あった。不安と向き合いながら、山に登り、人に会い、家族と過ごした。あの時間が今の自分をつくってくれたじゃよ。'
 pubDate: '2026-04-24'
-heroImage: '../../assets/taku-g-hero.png'
+heroImage: '../../assets/taku-g-hero-05.png'
 ---
 
 こんにちは、たくGじゃよ。
@@ -47,13 +47,16 @@ heroImage: '../../assets/taku-g-hero.png'
 
 ## 3．家族への不安
 
-もうひとつ大きかったのは、**家族のこと**じゃ。
-
 上の娘は23歳で、今度結婚を控えておる。下の息子は18歳、ちょうど4月から大学生になるところじゃった。
 
 もしものことがあったら、この子たちの門出を見届けられんかもしれん。生活は大丈夫じゃろうか。お金は足りるじゃろうか。
 
 自分のことより、家族のことの方がずっと気になったじゃな。
+
+<div style="display:flex;gap:12px;margin:1.5rem 0;">
+  <img src="/images/nyuin-05-img6.png" alt="" style="width:50%;border-radius:8px;" />
+  <img src="/images/nyuin-05-img7.png" alt="" style="width:50%;border-radius:8px;" />
+</div>
 
 ---
 
@@ -71,9 +74,15 @@ heroImage: '../../assets/taku-g-hero.png'
 
 朝起きると「**今日は何しようかなー**」とワクワクする感じ。まるで大学生に戻ったような感覚じゃったな。
 
+<div style="text-align:center;margin:1.5rem 0;">
+  <img src="/images/nyuin-05-img8.png" alt="" style="width:60%;border-radius:8px;" />
+</div>
+
 ---
 
 ## やったこと① 大菩薩嶺に登る
+
+<img src="/images/nyuin-05-img1.png" alt="大菩薩嶺登山" style="float:right;width:180px;margin:0 0 10px 16px;border-radius:8px;" />
 
 まず、山に登ったじゃ。
 
@@ -85,9 +94,13 @@ heroImage: '../../assets/taku-g-hero.png'
 
 仲間と笑いながら歩いたあの道は、今でも忘れられんじゃよ。
 
+<div style="clear:both;"></div>
+
 ---
 
 ## やったこと② 30年間お世話になった人に会う
+
+<img src="/images/nyuin-05-img2.png" alt="送別会" style="float:right;width:180px;margin:0 0 10px 16px;border-radius:8px;" />
 
 送別会も開いてもらったじゃ。
 
@@ -95,13 +108,15 @@ heroImage: '../../assets/taku-g-hero.png'
 
 **新潟から、北海道から、わざわざ来てくれた人がおったんじゃ。**
 
-教えてもらった先輩、一緒に競い合った同期、育てた部下。上司・同僚・部下、みんなが集まってくれた。
+教えてもらった先輩、一緒に競い合った同期、育てた部下。みんなが集まってくれた。
 
 退職を聞きつけて遠方から駆けつけてくれた顔を見た時、
 
 「長い間、ええ人間関係に恵まれとったんじゃな」
 
 と改めて思ったじゃよ。「ありがとう」と言えて、本当に良かったじゃ。
+
+<div style="clear:both;"></div>
 
 ---
 
@@ -115,7 +130,9 @@ heroImage: '../../assets/taku-g-hero.png'
 
 隣を歩く娘と息子を見て、「大きくなりよったな」と改めて感じたじゃよ。ちょっとしみじみしたじゃな。
 
----
+<img src="/images/nyuin-05-img3.png" alt="嵐山旅行" style="float:right;width:180px;margin:0 0 10px 16px;border-radius:8px;" />
+
+<div style="clear:both;"></div>
 
 そして**ディズニーシー**にも行ったじゃ。
 
@@ -127,9 +144,15 @@ heroImage: '../../assets/taku-g-hero.png'
 
 「最近の遊園地はスマホがないと何もできんな」とつくづく思ったじゃよ。時代は変わったじゃな。
 
+<img src="/images/nyuin-05-img4.png" alt="ディズニーシー" style="float:right;width:180px;margin:0 0 10px 16px;border-radius:8px;" />
+
+<div style="clear:both;"></div>
+
 ---
 
 ## やったこと④ 仕事の引き継ぎ準備
+
+<img src="/images/nyuin-05-img5.png" alt="引き継ぎ準備" style="float:right;width:180px;margin:0 0 10px 16px;border-radius:8px;" />
 
 もうひとつ大事なことをしたじゃ。**ビル管理の仕事を引き継ぐ準備**じゃ。
 
@@ -142,6 +165,8 @@ heroImage: '../../assets/taku-g-hero.png'
 ブレーカーの故障みたいな突発的なことも次々出てきて、親の苦労が身に染みたじゃな。
 
 毎日発生するわけじゃないが、ひとつひとつが大事な仕事じゃ。
+
+<div style="clear:both;"></div>
 
 ---
 

@@ -202,3 +202,5 @@ heroImage: '../../assets/taku-g-hero-05.png'
 良かったら、またブログを覗きにきてね。
 
 ではまたお目にかかれる日を！**バイナラじゃ。**
+
+![](/images/nyuin-05-img9.png)

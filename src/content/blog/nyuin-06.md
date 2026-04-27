@@ -53,6 +53,11 @@ CTスキャンとMRIは初めての体験で、造影剤が注入されるとき
 
 前回の大腸カメラは自宅で事前に洗浄してからクリニックに行ったので30分で終わったんじゃが、今回は集団でやる分、時間もプレッシャーも段違いじゃったよ。まずい、トイレ嫌い、じゃ。
 
+<div style="display:flex;gap:12px;margin:1.5rem 0;">
+  <img src="/images/nyuin-06-img1.png" alt="大腸検査" style="width:50%;border-radius:8px;" />
+  <img src="/images/nyuin-06-img2.png" alt="大腸洗浄" style="width:50%;border-radius:8px;" />
+</div>
+
 ---
 
 <a id="check2"></a>
@@ -112,6 +117,10 @@ CTスキャンとMRIは初めての体験で、造影剤が注入されるとき
 
 また、手術までの2ヶ月間は副業で少し貯金を増やしておいたのも、精神的な安心につながったじゃよ。
 
+<div style="text-align:center;margin:1.5rem 0;">
+  <img src="/images/nyuin-06-img3.png" alt="高額医療費制度" style="width:70%;border-radius:8px;" />
+</div>
+
 ---
 
 <a id="check5"></a>
@@ -129,6 +138,10 @@ CTスキャンとMRIは初めての体験で、造影剤が注入されるとき
 
 思いつく限り書いたら長文になってしもうたが、「何かあったら手術の2週間後に自動配信する」よう設定しておいたんじゃ。結局メールは送らなかったが、今後のためにそのまま保存してある。我ながらよくやったと思うじゃよ。
 
+<div style="text-align:center;margin:1.5rem 0;">
+  <img src="/images/nyuin-06-img4.png" alt="息子へのメッセージ" style="width:70%;border-radius:8px;" />
+</div>
+
 ---
 
 <a id="check6"></a>
@@ -141,6 +154,11 @@ CTスキャンとMRIは初めての体験で、造影剤が注入されるとき
 逆に、病院で買わされた**口内衛生グッズ**と**腹帯**は結局ほとんど使わなかったじゃ。
 
 持っていって良かったのは断然**スマホ**じゃ。体が動かせない中、片手で動画・本・情報が見れる。暇つぶしにも、思いついたことをメモするのにも大活躍じゃったよ。
+
+<div style="display:flex;gap:12px;margin:1.5rem 0;">
+  <img src="/images/nyuin-06-img5.png" alt="入院用品" style="width:50%;border-radius:8px;" />
+  <img src="/images/nyuin-06-img6.png" alt="スマホ活用" style="width:50%;border-radius:8px;" />
+</div>
 
 ---
 
@@ -176,3 +194,7 @@ CTスキャンとMRIは初めての体験で、造影剤が注入されるとき
 最後まで読んでくれてありがとう。
 このブログでは、58歳で初めて入院した体験から学んだ健康・食・生活・人生観について、正直に書いているじゃよ。
 次回は**「入院で変えた生活習慣〜食事の大切さ〜」**をお届けするじゃ。
+
+<div style="text-align:center;margin:2rem 0;">
+  <img src="/images/nyuin-06-img7.png" alt="入院前のたくG" style="width:70%;border-radius:8px;" />
+</div>

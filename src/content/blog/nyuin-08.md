@@ -44,6 +44,11 @@ heroImage: '../../assets/taku-g-hero-nyuin-08.png'
 
 スマホでYouTubeを開くと、無意識に旅グルメの動画を見ていたんじゃ。全国各地の美味しいものを美味しそうに食べている動画を見ながら「退院したら絶対ここに行くぞ」と心に決めて、ただ時間を過ごしたじゃ。そんなに全国あちこちには行けんじゃがな。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-08-img2.png" alt="食べ物の夢" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-08-img3.png" alt="YouTubeで旅グルメ" style="width:48%;border-radius:8px;" />
+</div>
+
 ---
 
 ## ② 久々の食事は「重湯」だった {#check2}
@@ -57,6 +62,11 @@ heroImage: '../../assets/taku-g-hero-nyuin-08.png'
 久しぶりに何かを口に入れた瞬間、舌が研ぎ澄まされているのが分かったじゃ。米のわずかな甘み、出汁のやさしい香り。味噌汁も野菜もすべて液体状じゃったが、それがとてもおいしく感じられたんじゃ。
 
 「当たり前の食事」なんてものは、本当はないんじゃな——そう思ったじゃよ。
+
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-08-img4.png" alt="久々の重湯" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-08-img5.png" alt="食事のありがたみ" style="width:48%;border-radius:8px;" />
+</div>
 
 ---
 
@@ -112,6 +122,10 @@ heroImage: '../../assets/taku-g-hero-nyuin-08.png'
 
 薬より、毎日の積み重ね。シンプルだけど、耳が痛い言葉じゃったよ。
 
+<div style="text-align:center;">
+  <img src="/images/nyuin-08-img6.png" alt="先生の一言" style="width:70%;border-radius:8px;" />
+</div>
+
 ---
 
 ## ⑥ 退院後の失敗談 {#check6}
@@ -132,6 +146,11 @@ heroImage: '../../assets/taku-g-hero-nyuin-08.png'
 
 腸はまだ回復途中じゃったんじゃな。退院後の食事は、医師の指示通りしばらく慎重に進めることを強くオススメするじゃ。わしの失敗を反面教師にしてくれじゃよ。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-08-img7.png" alt="退院後の食事" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-08-img8.png" alt="失敗談" style="width:48%;border-radius:8px;" />
+</div>
+
 ---
 
 ## ⑦ まとめ {#check7}
@@ -148,10 +167,19 @@ heroImage: '../../assets/taku-g-hero-nyuin-08.png'
 
 それが入院を経て、一番残したかったことじゃよ。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-08-img9.png" alt="食事のまとめ" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-08-img10.png" alt="今の食生活" style="width:48%;border-radius:8px;" />
+</div>
+
 ---
 
 このチャンネルでは、58歳で初めて入院した体験から学んだ健康・食・生活・人生観について、正直に話しているじゃよ。
 
 YouTubeでも同じテーマで動画を出しているじゃ。よかったらのぞいてみてくれじゃよ。
+
+<div style="text-align:center;">
+  <img src="/images/nyuin-08-img11.png" alt="たくG" style="width:70%;border-radius:8px;" />
+</div>
 
 > **※ 本記事は個人の体験をもとに作成しています。退院後の食事については、必ず担当医の指示に従ってください。**

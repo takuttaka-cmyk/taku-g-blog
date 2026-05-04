@@ -167,9 +167,9 @@ heroImage: '../../assets/taku-g-hero-nyuin-08.png'
 
 それが入院を経て、一番残したかったことじゃよ。
 
-<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
-  <img src="/images/nyuin-08-img9.png" alt="食事のまとめ" style="width:48%;border-radius:8px;" />
-  <img src="/images/nyuin-08-img10.png" alt="今の食生活" style="width:48%;border-radius:8px;" />
+<div style="display:flex;gap:12px;justify-content:center;align-items:flex-start;margin:16px 0;">
+  <img src="/images/nyuin-08-img9.png" alt="食事のまとめ" style="width:35%;border-radius:8px;" />
+  <img src="/images/nyuin-08-img10.png" alt="今の食生活" style="width:60%;border-radius:8px;" />
 </div>
 
 ---

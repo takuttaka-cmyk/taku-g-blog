@@ -2,7 +2,7 @@
 title: '入院中の過ごし方｜時間を味方にした話'
 description: '入院中の時間は「あるようで、ない」じゃった。でも時間の正体に気づいてから、過ごし方が変わったじゃよ。病棟をくの字で歩いたリハビリ、スマホメモ活用、おじい3兄弟の夜のリアルまで、58歳の入院体験者が正直に話すじゃよ。'
 pubDate: '2026-05-06'
-heroImage: '../../assets/taku-g-hero.png'
+heroImage: '../../assets/taku-g-hero-nyuin-09.png'
 ---
 
 こんにちは、たくGじゃよ。
@@ -48,6 +48,12 @@ heroImage: '../../assets/taku-g-hero.png'
 手術翌日から2日目くらいは、初めての入院で勝手がわからんかったじゃ。スマホで調べ物をしようとしている最中に、ちょくちょく訪問診療などが入って中断してしまう。手術した部分が突っ張る感じで痛いし、体調の良し悪しもあって、思うように動けんのじゃ。
 
 最初はこのペースがつかめず、かなりイライラしたじゃよ。
+
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-09-img1.png" alt="午前中の入院生活" style="width:32%;border-radius:8px;" />
+  <img src="/images/nyuin-09-img2.png" alt="中断されるたびに" style="width:32%;border-radius:8px;" />
+  <img src="/images/nyuin-09-img3.png" alt="イライラした日々" style="width:32%;border-radius:8px;" />
+</div>
 
 ---
 
@@ -102,6 +108,11 @@ heroImage: '../../assets/taku-g-hero.png'
 
 これを入れていったんじゃよ。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-07-img5.png" alt="隙間時間のメモ" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-09-img4.png" alt="午後のまとまった時間" style="width:48%;border-radius:8px;" />
+</div>
+
 ---
 
 ## ⑤ やってよかったこと {#check5}
@@ -122,6 +133,11 @@ heroImage: '../../assets/taku-g-hero.png'
 
 歩くタイミングは、起床後・昼食前・夕食前の1日3回。食事が運ばれる際に音楽が流れるので、その音が「1日のリズム」を作ってくれたじゃな。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-09-img5.png" alt="病棟リハビリ" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-09-img6.png" alt="歩くリハビリ" style="width:48%;border-radius:8px;" />
+</div>
+
 ### 📱 スマホ活用
 
 - メモアプリでタスクチェック
@@ -141,6 +157,11 @@ TVは消灯後は見れんが、YouTubeならイヤホンで周りに迷惑か�
 
 読書も試みたじゃが、夜のシーンとした中では周りの音が気になりすぎて頭に入ってこなかったじゃ。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-09-img7.png" alt="スマホ活用" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-09-img8.png" alt="消灯後の夜" style="width:48%;border-radius:8px;" />
+</div>
+
 ### 🧠 考える時間
 
 退院後の人生について、じっくり考えることができたじゃよ。
@@ -152,6 +173,11 @@ TVは消灯後は見れんが、YouTubeならイヤホンで周りに迷惑か�
 **「食事」「散歩（ウォーキング）」「時間をゆったり過ごすこと」**
 
 退院後はこれを意識して、その時間を味わうようにしているじゃよ。
+
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-09-img9.png" alt="バケットリスト" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-09-img10.png" alt="考える時間" style="width:48%;border-radius:8px;" />
+</div>
 
 ---
 
@@ -188,6 +214,10 @@ TVは消灯後は見れんが、YouTubeならイヤホンで周りに迷惑か�
 今後何を優先して、どれだけ時間を使うか——これを整理したことで、退院後の人生への向き合い方が変わったじゃよ。
 
 **「ただの1日をどれだけ楽しめるか？」**——その答えが、少し見えてきたじゃよ。
+
+<div style="text-align:center;margin:16px 0;">
+  <img src="/images/nyuin-09-img11.png" alt="マインドの変化" style="width:70%;border-radius:8px;" />
+</div>
 
 ---
 
@@ -228,5 +258,9 @@ TVは消灯後は見れんが、YouTubeならイヤホンで周りに迷惑か�
 このチャンネルでは、58歳で初めて入院した体験から学んだ健康・食・生活・人生観について、正直に話しているじゃよ。
 
 YouTubeでも同じテーマで動画を出しているじゃ。よかったらのぞいてみてくれじゃよ。
+
+<div style="text-align:center;margin:16px 0;">
+  <img src="/images/nyuin-02-img4.png" alt="たくG" style="width:70%;border-radius:8px;" />
+</div>
 
 > **※ 本記事は個人の体験をもとに作成しています。入院中の過ごし方については、必ず担当医や看護師の指示に従ってください。**

@@ -49,8 +49,8 @@ heroImage: '../../assets/taku-g-hero-nyuin-10.png'
 あの感覚は、正直、怖かったじゃな。
 
 <div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
-  <img src="/images/nyuin-10-img1.png" alt="入院生活の制限" style="width:48%;border-radius:8px;" />
-  <img src="/images/nyuin-10-img2.png" alt="管がついた状態" style="width:48%;border-radius:8px;" />
+  <img src="/images/ChatGPT%20Image%202026%E5%B9%B42%E6%9C%889%E6%97%A5%2013_59_19.png" alt="入院生活の制限" style="width:48%;border-radius:8px;" />
+  <img src="/images/ChatGPT%20Image%202026%E5%B9%B43%E6%9C%8820%E6%97%A5%2009_24_23.png" alt="管がついた状態" style="width:48%;border-radius:8px;" />
 </div>
 
 ---
@@ -66,8 +66,8 @@ heroImage: '../../assets/taku-g-hero-nyuin-10.png'
 昼間は平気な顔をしていても、夜になると不安は隠せなかったじゃな。
 
 <div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
-  <img src="/images/nyuin-10-img3.png" alt="夜の病室" style="width:48%;border-radius:8px;" />
-  <img src="/images/nyuin-10-img4.png" alt="消灯後の不安" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-03-img2.png" alt="夜の病室" style="width:48%;border-radius:8px;" />
+  <img src="/images/ChatGPT%20Image%202026%E5%B9%B42%E6%9C%8815%E6%97%A5%2013_53_46.png" alt="消灯後の不安" style="width:48%;border-radius:8px;" />
 </div>
 
 ---
@@ -97,8 +97,9 @@ heroImage: '../../assets/taku-g-hero-nyuin-10.png'
 もっとシンプルに、人間らしく楽しむこと。その源の体を大切にすることに、気を配れなかったことが悔しかったじゃ。
 
 <div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
-  <img src="/images/nyuin-10-img5.png" alt="ベッドの上での後悔" style="width:48%;border-radius:8px;" />
-  <img src="/images/nyuin-10-img6.png" alt="仕事と人生を振り返る" style="width:48%;border-radius:8px;" />
+  <img src="/images/ChatGPT%20Image%202025%E5%B9%B412%E6%9C%8831%E6%97%A5%2016_53_48.png" alt="ベッドの上での後悔" style="width:32%;border-radius:8px;" />
+  <img src="/images/ChatGPT%20Image%202026%E5%B9%B42%E6%9C%886%E6%97%A5%2022_29_50.png" alt="仕事と人生を振り返る" style="width:32%;border-radius:8px;" />
+  <img src="/images/ChatGPT%20Image%202026%E5%B9%B41%E6%9C%883%E6%97%A5%2006_36_49.png" alt="退職と新しい仕事" style="width:32%;border-radius:8px;" />
 </div>
 
 ---
@@ -116,8 +117,8 @@ heroImage: '../../assets/taku-g-hero-nyuin-10.png'
 もし退職していなければ、検査はさらに伸びていたじゃろうな。取り返しがつかなかったかもしれん。そう思うと——タイミング的には、よかったのかもしれんと思っているじゃよ。
 
 <div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
-  <img src="/images/nyuin-10-img7.png" alt="検査を先延ばしにした理由" style="width:48%;border-radius:8px;" />
-  <img src="/images/nyuin-10-img8.png" alt="検査を受ける決断" style="width:48%;border-radius:8px;" />
+  <img src="/images/ChatGPT%20Image%202026%E5%B9%B43%E6%9C%883%E6%97%A5%2007_09_21.png" alt="検査を先延ばしにした理由" style="width:48%;border-radius:8px;" />
+  <img src="/images/ChatGPT%20Image%202026%E5%B9%B43%E6%9C%8811%E6%97%A5%2013_11_34.png" alt="検査を受ける決断" style="width:48%;border-radius:8px;" />
 </div>
 
 ---
@@ -152,8 +153,8 @@ heroImage: '../../assets/taku-g-hero-nyuin-10.png'
 分かるじゃよ。ワシもそうじゃった。でも、何もなければ安心できる。もし何かあっても、早く見つけられる。あの時受けておけばよかったと、本気で思ったじゃよ。
 
 <div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
-  <img src="/images/nyuin-10-img9.png" alt="同世代へのメッセージ" style="width:48%;border-radius:8px;" />
-  <img src="/images/nyuin-10-img10.png" alt="検査の大切さ" style="width:48%;border-radius:8px;" />
+  <img src="/images/ChatGPT%20Image%202026%E5%B9%B42%E6%9C%8824%E6%97%A5%2014_23_28.png" alt="同世代へのメッセージ" style="width:48%;border-radius:8px;" />
+  <img src="/images/ChatGPT%20Image%202026%E5%B9%B43%E6%9C%884%E6%97%A5%2009_58_27.png" alt="検査の大切さ" style="width:48%;border-radius:8px;" />
 </div>
 
 ---

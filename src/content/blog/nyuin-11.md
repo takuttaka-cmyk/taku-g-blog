@@ -48,6 +48,11 @@ heroImage: '../../assets/taku-g-hero-nyuin-11.png'
 
 8位にしたけど、地味にじわじわくる不快さじゃった。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-11-img1.png" alt="シャワーなし入院生活" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-11-img2.png" alt="蒸しタオルの気持ちよさ" style="width:48%;border-radius:8px;" />
+</div>
+
 ---
 
 ## 第7位：食欲はあるのに、食べられない {#check7}
@@ -68,6 +73,11 @@ heroImage: '../../assets/taku-g-hero-nyuin-11.png'
 
 食べたい気持ちと、食べられない現実のギャップ。あれは地味に精神的にきつかったじゃよ。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-08-img3.png" alt="食欲はあるのに食べられない" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-08-img4.png" alt="入院食のリアル" style="width:48%;border-radius:8px;" />
+</div>
+
 ---
 
 ## 第6位：点滴がずっとついている {#check6}
@@ -80,6 +90,11 @@ heroImage: '../../assets/taku-g-hero-nyuin-11.png'
 
 「つながれてる」うえに「気を遣わないかん」という感覚、あれは想像以上じゃったんじゃ。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-11-img3.png" alt="点滴スタンドとの生活" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-11-img4.png" alt="ずっとつながれている不安" style="width:48%;border-radius:8px;" />
+</div>
+
 ---
 
 ## 第5位：排尿・排便に管がついている {#check5}
@@ -89,6 +104,11 @@ heroImage: '../../assets/taku-g-hero-nyuin-11.png'
 大腸の手術後、しばらくは排尿と排便のところに管が入ったままになるんじゃ。これがな……なんとも言えん違和感があるんじゃよ。痛いというより、「なんかある」という感じがずっと続く。慣れようと思っても、なかなか慣れんのじゃ。
 
 体のプライベートな部分に管がついている。これが精神的にもなかなか重たいんじゃ。早く外れてくれと毎日思っておったじゃよ。
+
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-11-img5.png" alt="管がついている違和感" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-11-img6.png" alt="排尿排便の管" style="width:48%;border-radius:8px;" />
+</div>
 
 ---
 
@@ -106,6 +126,11 @@ heroImage: '../../assets/taku-g-hero-nyuin-11.png'
 
 面白いことに気づいたのはな、昼間のほうがかえって眠れたんじゃよ。検査や面会でざわついている時間帯のほうが、雑音が気になりにくかったんじゃ。だから昼間に少し寝て睡眠不足をカバーしておったじゃよ。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-09-img7.png" alt="夜の病室" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-11-img7.png" alt="眠れない夜" style="width:48%;border-radius:8px;" />
+</div>
+
 ---
 
 ## 第3位：オムツ生活で、便の処理が大変 {#check3}
@@ -122,6 +147,11 @@ heroImage: '../../assets/taku-g-hero-nyuin-11.png'
 
 笑い話にしておるが、これは本当の話じゃよ。知っておいて損はないと思うんじゃ。
 
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-11-img8.png" alt="オムツ生活のリアル" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-11-img9.png" alt="自分でやるしかない" style="width:48%;border-radius:8px;" />
+</div>
+
 ---
 
 ## 第2位：腸が短くなって、便が近い {#check2}
@@ -133,6 +163,11 @@ heroImage: '../../assets/taku-g-hero-nyuin-11.png'
 結果、便意が頻繁に来る。「さっきトイレ行ったばかりなのに、また来た」という状態じゃよ。入院中は特にそれが顕著でな、夜中も含めてトイレに行く回数が増える。体は痛いのに、何度もトイレに起きるんじゃ。
 
 そしてこれはな、入院中だけの話じゃないんじゃよ。退院した後もしばらく続く。入院前のアンケートで「トイレに一日何回行きますか？」「知らない場所に行った時、トイレの場所をまず探しますか？」などの質問の意味がわからなかったが、この経験から質問の意味がよくわかったじゃ。それぐらい、便に対するストレスが増えるんじゃね。  大腸手術を考えている人には、これだけは事前に心の準備をしておいてほしいじゃよ。
+
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-11-img10.png" alt="便が近い生活" style="width:48%;border-radius:8px;" />
+  <img src="/images/nyuin-11-img11.png" alt="腸が短くなる影響" style="width:48%;border-radius:8px;" />
+</div>
 
 ---
 
@@ -156,6 +191,12 @@ heroImage: '../../assets/taku-g-hero-nyuin-11.png'
 これで初めは5分くらいかかっておったじゃよ。1つ1つの動作に細心の注意を払わないと、激痛が走るんじゃ。でも2日もすると自分なりのコツをつかんで、少しずつ早くなっていったじゃよ。
 
 思うように体が動かないというのはな、精神的にも本当に応えるんじゃ。体が動かないと、気持ちも沈んでくる。他の7つの不快、全部乗っかってくるのがこの「動けない」状態じゃからな。これが第1位じゃよ。
+
+<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
+  <img src="/images/nyuin-11-img12.png" alt="体のコアの痛み" style="width:32%;border-radius:8px;" />
+  <img src="/images/nyuin-11-img13.png" alt="ベッドから立ち上がる苦労" style="width:32%;border-radius:8px;" />
+  <img src="/images/nyuin-11-img14.png" alt="動けない辛さ" style="width:32%;border-radius:8px;" />
+</div>
 
 ---
 

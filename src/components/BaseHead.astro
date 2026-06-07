@@ -56,5 +56,8 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image.src, Astro.url)} />
 
+<!-- Google Search Console -->
+<meta name="google-site-verification" content="9-_JzIHndj7qiftjVj98gQKUkzuy5Umh7tyTNxfZ7cs" />
+
 <!-- Cloudflare Web Analytics -->
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "b615b6cc3b0f424a909c83f3249d898e"}'></script>

@@ -1,0 +1,83 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+
+// Googleフォームを作成したらここのURLを差し替える
+const GOOGLE_FORM_URL = '';
+---
+
+<!doctype html>
+<html lang="ja">
+	<head>
+		<BaseHead title={`お問い合わせ | ${SITE_TITLE}`} description="当サイトへのお問い合わせはこちらから。" />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 2em 1em;
+			}
+			h1 {
+				font-size: 1.6em;
+				margin-bottom: 1em;
+			}
+			.form-button {
+				display: inline-block;
+				background: var(--accent);
+				color: white;
+				font-weight: bold;
+				padding: 0.8rem 2.5rem;
+				border-radius: 50px;
+				text-decoration: none;
+				box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+				transition: transform 0.15s;
+			}
+			.form-button:hover {
+				transform: translateY(-2px);
+			}
+			.sns-links {
+				display: flex;
+				gap: 1rem;
+				flex-wrap: wrap;
+				margin-top: 0.5rem;
+			}
+			.sns-links a {
+				display: inline-block;
+				padding: 0.6rem 1.5rem;
+				border-radius: 50px;
+				color: white;
+				font-weight: bold;
+				text-decoration: none;
+				font-size: 0.9rem;
+			}
+			.youtube { background: #ff0000; }
+			.instagram { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>お問い合わせ</h1>
+
+			<p>
+				当サイトへのお問い合わせ・ご意見・ご感想は、以下のフォームよりお気軽にお送りください。
+			</p>
+			{GOOGLE_FORM_URL ? (
+				<p style="text-align: center; margin: 2rem 0;">
+					<a class="form-button" href={GOOGLE_FORM_URL} target="_blank" rel="noopener">お問い合わせフォームを開く</a>
+				</p>
+			) : (
+				<p style="color: #999;">（お問い合わせフォームは準備中です。もうしばらくお待ちください。）</p>
+			)}
+
+			<p>SNSでも発信しています。コメント・DMもお気軽にどうぞ！</p>
+			<div class="sns-links">
+				<a class="youtube" href="https://www.youtube.com/@%E3%81%9F%E3%81%8FG%E3%81%95%E3%82%93/featured" target="_blank" rel="noopener">▶ YouTube</a>
+				<a class="instagram" href="https://www.instagram.com/taku_g_tadano1nichi/" target="_blank" rel="noopener">📷 Instagram</a>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

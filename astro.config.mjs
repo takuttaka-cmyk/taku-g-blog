@@ -3,11 +3,15 @@
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
+import remarkBreaks from 'remark-breaks';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://taku-g-blog.pages.dev',
 	integrations: [mdx(), sitemap()],
+	markdown: {
+		remarkPlugins: [remarkBreaks],
+	},
 	fonts: [
 		{
 			provider: fontProviders.local(),
